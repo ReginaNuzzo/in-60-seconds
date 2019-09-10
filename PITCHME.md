@@ -1,8 +1,7 @@
 # Let's Get Started
 
 ---
-# Communicating Quantitative Information Is Hard! 
-# Strategies for Success
+## Communicating Quantitative Information Is Hard! Strategies for Success
 
 
 ---
