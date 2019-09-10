@@ -1,6 +1,23 @@
 # Let's Get Started
 
 ---
+# Communicating Quantitative Information Is Hard! 
+# Strategies for Success
+
+
+---
+# Icebreaking
+
+
+
+---
+# Quick writing exercise (?)
+
+---
+# What's good and what's bad?
+ 
+
+---
 
 ## Add Some Slide Candy
 
