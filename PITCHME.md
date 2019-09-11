@@ -10,7 +10,9 @@
 
 
 ---
+@snap[west span-75]
 # Quick writing exercise (?)
+@snap
 
 ---
 # What's good and what's bad?
