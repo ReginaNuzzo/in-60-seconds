@@ -10,7 +10,7 @@
 
 
 ---
-@snap[west span-75]
+@snap[east span-75]
 ## Quick writing exercise (?)
 @snapend
 
