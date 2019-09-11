@@ -11,7 +11,7 @@
 
 ---
 @snap[west span-75]
-# Quick writing exercise (?)
+## Quick writing exercise (?)
 @snap
 
 ---
