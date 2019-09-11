@@ -12,7 +12,7 @@
 ---
 @snap[west span-75]
 ## Quick writing exercise (?)
-@snap
+@snapend
 
 ---
 # What's good and what's bad?
